@@ -1,0 +1,2 @@
+# testFramworkPods
+测试用cocoapods来进行管理framework
